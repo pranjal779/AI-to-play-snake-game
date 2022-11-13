@@ -1,0 +1,5 @@
+Outline 
+Part 1: Theory
+Part 2: Implement the game (environment)
+Part 3: Implement the agent
+Part 4: Implement the model
