@@ -3,3 +3,34 @@ Part 1: Theory
 Part 2: Implement the game (environment)
 Part 3: Implement the agent
 Part 4: Implement the model
+
+Reinforcement Learning (RL)
+RL is teaching a software agent how to behave in an environment by telling it how good it's doing.
+
+Use of Deep Learning
+or Deep Q Learning
+
+5:44
+
+Reward System
+Action System - directions
+State
+    State means - we have to tell the snake some information about thr game that it knows about,
+    so it need to know about the environment.
+
+all the values are in boolean values?
+
+Train the model 13:07
+
+(Deep) Q Learning
+Q value = Quality of Action
+...(13:26)
+
+
+Bellman Equation
+
+using 3 classes
+Agent
+Game (Pygame)
+Model (PyTorch)
+
