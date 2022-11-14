@@ -1,0 +1,20 @@
+# conda create -n pygame_env python=3.7 in terminal
+#  To activate this environment, use
+#
+#     $ conda activate pygame_env
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+# pip install pygame
+
+# pip3 install torch torchvision
+
+# the above pip3 cmd in my vscode powershell terminal did not work,
+# so I used
+# pip3 install torch torchvision --user
+
+# again problem with pip install matplotlib ipython
+# so used,
+# pip install matplotlib ipython --user
