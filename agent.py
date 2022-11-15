@@ -90,8 +90,8 @@ class Agent:
             move = random.randint(0, 2)
             final_move[move] = 1
         else:
-            stae0 = torch.tensor(state, dtype=torch.float)
-            prediction = self.model,predict(state0)
+            state0 = torch.tensor(state, dtype=torch.float)
+            prediction = self.model.predict(state0)
             move = torch.argmax(prediction).item()
             final_move[move] = 1
 
