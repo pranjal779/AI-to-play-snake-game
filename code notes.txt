@@ -21,3 +21,28 @@
 
 # pip install pygame --pre worked ... ?
 
+# How do you know if a conda environment is active?
+# Viewing a list of the packages in an environment
+# If the environment is not activated, in your Terminal window or an Anaconda Prompt, run: conda list -n myenv.
+# If the environment is activated, in your Terminal window or an Anaconda Prompt, run: conda list.
+
+11/15/2022
+import torch still not recognised?
+and pip install torch ........ not working-?
+
+# 56:13
+
+# 18:58 for me it is not showing as (pygame_env) ... <dir name> ....
+i am a windows user
+
+(edit) it worked for
+I had to open a CMD outside of VS CODE
+and then follow the steps of conda pygame_env
+now I am getting "(pygame_env) C:\Users\........."
+
+Import torch worked
+I had to
+# Command Palette (Cmd/Ctrl+Shift+P) -> Python Select Interpreter
+
+# and changed it to one matching 'which python' on the command line.
+
