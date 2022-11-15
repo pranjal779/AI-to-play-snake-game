@@ -34,3 +34,4 @@ Agent
 Game (Pygame)
 Model (PyTorch)
 
+on part 3 40:08

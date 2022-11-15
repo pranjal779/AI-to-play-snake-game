@@ -18,3 +18,6 @@
 # again problem with pip install matplotlib ipython
 # so used,
 # pip install matplotlib ipython --user
+
+# pip install pygame --pre worked ... ?
+
